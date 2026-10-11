@@ -1,5 +1,7 @@
 # Class Combat System (Roblox / Luau)
 
+**Built:** 2021 – 2022
+
 The combat and game systems for a class-based fighting game on Roblox. Players pick a class, fight in rounds on voted maps, and can practise against training NPCs.
 
 ## Highlights
