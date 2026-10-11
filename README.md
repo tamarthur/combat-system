@@ -2,7 +2,7 @@
 
 **Built:** 2021 – 2022 · Solo project
 
-> Written in Roblox Studio between 2021 and 2022. Roblox saves projects as binary place files, so in 2026 I used Claude to extract the scripts into plain `.lua` files for GitHub. The code itself is unchanged.
+> Written in Roblox Studio between 2021 and 2022. Roblox saves projects as binary place files, so in 2026 I used Claude to extract the scripts into plain `.lua` files for GitHub. The code itself is unchanged, apart from replacing friends' Roblox usernames with placeholders.
 
 The combat and game systems for a class-based fighting game on Roblox. Players pick a class, fight in rounds on voted maps, and can practise against training NPCs.
 
